@@ -1,0 +1,43 @@
+.container{
+    width: 1000px;
+    margin-left:auto;
+    margin-right: auto;
+  background-color:rgb(248, 242, 237);
+}
+header h1{
+    color: #7a3f04;
+    text-align: center;
+    font-size: 40px;
+}
+nav{
+    text-align: center;
+}
+nav a:link{
+    color:#7a3f04;
+    text-decoration: none;
+}
+nav a:hover{
+    color:#f3861a;
+    text-decoration: underline;
+}
+nav a:visted{
+    color:#ff0000;
+}
+.heroImg{
+    height: 250px;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Stanford_Oval_May_2011_panorama.jpg/1000px-Stanford_Oval_May_2011_panorama.jpg");
+    border-radius: 14px;
+    background-size: cover;
+    background-position: center center;
+}
+article h3{
+    height:40px;
+    border-radius:7px;
+    background-color: #ff9c3a;
+    padding-left: 10px;
+    line-height:36px;
+}
+.iframe-container {
+    text-align:center;
+
+}
